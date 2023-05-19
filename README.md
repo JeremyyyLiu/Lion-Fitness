@@ -4,6 +4,12 @@
 
 Lion Fitness is a fully responsive static website created using HTML, CSS, and JavaScript. The website provides all the relevant information about the Lion Fitness gym, including its services, classes, trainers, and contact information. Designed to adapt to various screen sizes, this website ensures an optimal user experience on any device.
 
+<p align="center">
+<a href="https://lion-fitness.vercel.app/">
+<img  src="https://fotopie.s3.ap-southeast-2.amazonaws.com/Screenshot+2023-05-19+at+1.04.53+pm.png">
+</a>
+</p>
+
 #### Features
 
 - Fully responsive design for seamless browsing on different devices
